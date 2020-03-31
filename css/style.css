@@ -87,6 +87,7 @@
     text-align: center;
 }
 .poga:hover {
-    width: 95%;
-    transition: all 0.2s ease-in-out;
+    border: 1px solid grey;
+    outline:1px solid grey
+    outline-offset: 3px;
 }
