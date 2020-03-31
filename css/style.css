@@ -20,5 +20,11 @@
 .main_menu_item{
   background: red;
 }
-.second_menu_item{
-background:blue;}
+.second_menu_item {
+    display: inline;
+    font-size: 17px;
+    padding-left: 10px;
+    border-left: 1px solid green;
+    margin-right: 10px;
+    line-height: 33px;
+}
