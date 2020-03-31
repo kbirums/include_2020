@@ -12,10 +12,8 @@
   border-left: 1px solid blue;
 }
 .second{
-  border: 1px solid red;
-}
-.second_menu{
-  background:green;
+  background:white;
+  height:30px;
 }
 .main_menu_item{
   background: red;
