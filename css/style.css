@@ -53,9 +53,9 @@
     position: relative;
     float: right;
   }
-  .sidebar{
-    width:34%
-  padding:10px
+.sidebar{
+    width:34%;
+  padding:10px;
 }
 .picture{
   width:80%
