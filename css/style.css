@@ -69,5 +69,13 @@
 .vh2{
   border:1px solid green;
 }
-.virsraksts{background:green;}
-.Virsraksts{background:blue;}
+.virsraksts{
+  background:green;
+  font-size:1.3rem;
+}
+.pavadteksts{font-size:0.9rem}
+.poga{
+  background:yellow;
+  color:black:
+  padding:3px;
+}
