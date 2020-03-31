@@ -65,10 +65,10 @@
   }
   .picture {
       margin: 0 auto;
-      width: 215px;
-      height: 215px;
-      overflow:hidden;
-      background:pink;
+      width: 100%;
+      height: 180px;
+      overflow: hidden;
+      background: pink;
       border: 1px solid green;
   }
 .vh2{
