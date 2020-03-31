@@ -46,12 +46,14 @@
     padding: 10px;
     border: 1px solid grey;
 }
-.elements{box-sizing: border-box;
-    width: 74%;
+.elements {
+    border: 1px solid grey;
+    margin: 10px 10px 10px 0;
+    width: 75%;
     padding: 10px;
     position: relative;
     float: right;
-  }
+}
   .sidebar {
       margin: 10px 0 10px 10px;
       border: 1px solid grey;
