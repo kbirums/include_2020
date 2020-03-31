@@ -28,3 +28,6 @@
     margin-right: 10px;
     line-height: 33px;
 }
+.second_menu_item:nth-child(1){
+  border-left:none;
+}
