@@ -86,9 +86,8 @@
     text-align: center;
 }
 .poga:hover {
-    border: 1px solid grey;
     outline:1px solid grey;
-    outline-offset: 3px;
+    outline-offset: 1px;
 }
 .pievienot{
   margin: 0 auto;
