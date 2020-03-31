@@ -4,3 +4,10 @@
 #Kategorijas{
   background:greyš
 }
+.mainmenu{
+  bottom-border:1px solid green;
+}
+.main_menu {
+  padding-left:10px;
+  border-left: 1px solid blue;
+}
