@@ -31,3 +31,6 @@
 .second_menu_item:nth-child(1){
   border-left:none;
 }
+.second_menu_item:hover{
+  font-weight: 500;
+}
