@@ -39,7 +39,7 @@
 .second_menu_item:hover{
   text-decoration: underline;
 }
-.elements_item {
+.elements_item{
     width: 200px;
     float: left;
     position: relative;
