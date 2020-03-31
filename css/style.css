@@ -63,6 +63,7 @@
       position: relative;
   }
 .picture{
+  margin: 0 auto;
   width:80%;
   border:1px solid green;
 }
@@ -75,6 +76,7 @@
 }
 .pavadteksts{font-size:0.9rem}
 .poga{
+  margin: 0 auto;
   background:yellow;
   color:black:
   padding:3px;
