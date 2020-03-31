@@ -64,7 +64,8 @@
   }
 .picture{
   margin: 0 auto;
-  width:80%;
+  width:90%;
+  height:200px;
   border:1px solid green;
 }
 .vh2{
