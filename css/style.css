@@ -65,9 +65,10 @@ body{
     position: relative;
 }
 .sidebar {
+    background: #b8e4ff;
     padding: 5px;
     margin: 5px;
-    border-bottom: solid #afafaf;
+    border-bottom: 1px solid #afafaf;
     text-align: center;
 }
   .kategorija_item {
