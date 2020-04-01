@@ -73,11 +73,11 @@ body{
       position: relative;
   }
   .elements_item {
-      min-width: 175px;
-      width: 18%;
+      min-width: 165px;
+      width: 17%;
       float: left;
       position: relative;
-      margin: 5px;
+      margin: 10px;
       border: 1px solid #f1f1f1;
   }
   .elements_item:hover{
@@ -91,7 +91,8 @@ body{
   .picture {
       margin: 0 auto;
       width: 95%;
-      height: 150px;
+      padding: 5px;
+      height: 130px;
       overflow: hidden;
       background: #f6cc05;
   }
