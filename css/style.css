@@ -91,10 +91,23 @@
 .pavadteksts{
   font-size:0.9rem
 }
-.pievienot, .poga {
+.pievienot{
+    margin: 0 auto;
+    width: 100%;
+    margin-top: 20px;
+    background: #f6cc05;
+    padding: 6px;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 1.2rem;
+}
+.poga {
     margin: 0 auto;
     width: 170px;
+    margin-top: 20px;
     background: #f6cc05;
-    padding:5px;
-
+    padding: 6px;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 0.9rem;
 }
