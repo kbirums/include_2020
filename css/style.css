@@ -13,7 +13,7 @@
 }
 .main_menu {
   padding-left:10px;
-  border-left: 1px solid blue;
+  border-left: 1px solid #f6cc05;
 }
 .second{
   background:white;
@@ -23,7 +23,7 @@
   display: inline;
   font-size: 19px;
   padding-left: 5px;
-  border-left: 2px solid yellow;
+  border-left: 2px solid #f6cc05;
   margin-right: 5px;
 }
 .second_menu_item {
