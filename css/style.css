@@ -75,6 +75,9 @@ body{
       float: left;
       position: relative;
   }
+.kategorija_item{
+  display:flex;
+}
   .elements_item {
       min-width: 165px;
       width: 17%;
