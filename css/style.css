@@ -74,11 +74,13 @@ body{
       float: left;
       position: relative;
       margin: 5px;
-      padding: 10px;
       border: 1px solid #f1f1f1;
   }
   .elements_item:hover{
     border: 1px solid grey;
+  }
+  .element_info{
+    padding:5px;
   }
   .picture {
       margin: 0 auto;
