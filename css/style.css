@@ -78,14 +78,11 @@
   font-size:1.3rem;
 }
 .pavadteksts{font-size:0.9rem}
-.pievienot, .poga {
-    margin: 0 auto;
-    background: yellow;
-    color: black;
-    margin-top: 10px;
-    font-size: 12px;
-    text-transform: uppercase;
-    padding: 6px;
-    border: 1px solid grey;
-    text-align: center;
+.pievienot .elements_item {
+    width: 18%;
+    float: left;
+    position: relative;
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid #e6e6e6;
 }
