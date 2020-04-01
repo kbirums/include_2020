@@ -79,8 +79,10 @@ body{
   .elements_item:hover{
     border: 1px solid grey;
   }
-  .element_info{
-    padding:5px;
+  .element_info {
+      min-height: 145px;
+      position: relative;
+      padding: 5px;
   }
   .picture {
       margin: 0 auto;
@@ -118,4 +120,6 @@ body{
     text-transform: uppercase;
     text-align: center;
     font-size: 0.8rem;
+    position: absolute;
+    bottom: 5px;
 }
