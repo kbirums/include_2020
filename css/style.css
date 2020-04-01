@@ -78,7 +78,7 @@
   font-size:1.3rem;
 }
 .pavadteksts{font-size:0.9rem}
-.pievienot .elements_item {
+.pievienot, .elements_item {
     width: 18%;
     float: left;
     position: relative;
