@@ -39,13 +39,13 @@
 .second_menu_item:hover{
   text-decoration: underline;
 }
-.elements_item{
-    width: 200px;
+.elements_item {
+    width: 19%;
     float: left;
     position: relative;
-    margin: 10px;
+    margin: 5px;
     padding: 10px;
-    border: 1px solid grey;
+    border: 1px solid #f1f1f1;
 }
 .elements {
     border: 1px solid grey;
