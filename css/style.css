@@ -78,6 +78,9 @@
 .vh2{
   border:1px solid green;
 }
+.element_kategorija{
+  font-size:11px;
+}
 .virsraksts{
   color:green;
   font-size:1.3rem;
