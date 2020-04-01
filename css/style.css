@@ -61,7 +61,6 @@ body{
   text-decoration: underline;
 }
 .elements {
-    border: 1px solid grey;
     margin: 10px 10px 10px 0;
     width: 78%;
     padding: 10px;
@@ -70,7 +69,6 @@ body{
 }
 .sidebar {
       margin: 10px 0 10px 10px;
-      border: 1px solid grey;
       padding: 10px;
       width: 20%;
       float: left;
