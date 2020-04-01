@@ -1,6 +1,6 @@
 *{
   box-sizing: border-box;
-  font-family: arial;
+      font-family: Roboto,sans-serif;
 }
 #pievienot{
   border: 1px solid grey;
