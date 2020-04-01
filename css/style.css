@@ -87,10 +87,10 @@ body{
     border: 1px solid grey;
   }
   .element_info {
-      min-height: 145px;
+      min-height: 135px;
       position: relative;
-      padding: 10px 5px;
-  }
+      padding: 0 5px 5px;
+}
   .picture {
       width: 95%;
       margin: 5px;
