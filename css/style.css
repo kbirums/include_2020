@@ -5,7 +5,6 @@
 }
 html{background: whitesmoke;;}
 body{
-  background: white;
   max-width: 1220px;
   margin: 0 auto;
   }
@@ -14,7 +13,11 @@ body{
     padding: 0 20px 0 20px;
     background:white;
 }
-.saturs{background:white}
+.saturs {
+    margin-top: 5px;
+    background: white;
+    min-height: 800px;
+}
 #pievienot{
   border: 1px solid grey;
 }
