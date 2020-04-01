@@ -78,6 +78,10 @@ body{
       margin-right: 5px;
       font-size: 18px;
   }
+  .kategorija_item:nth-child(1) {
+      border-left: none
+      padding-left: 0;
+  }
 .elements_item {
     min-width: 152px;
     width: 15%;
