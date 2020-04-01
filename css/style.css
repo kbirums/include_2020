@@ -1,11 +1,14 @@
 *{
   box-sizing: border-box;
-      font-family: Roboto,sans-serif;
+  font-family: Roboto,sans-serif;
 }
-body, menu{
+body{
   max-width: 1220px;
   margin: 0 auto;
   }
+.menu{
+  max-width: 1220px;
+}
 #pievienot{
   border: 1px solid grey;
 }
