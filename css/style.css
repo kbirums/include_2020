@@ -45,6 +45,7 @@
   text-decoration: underline;
 }
 .elements_item {
+    min-width: 190px;
     width: 19%;
     float: left;
     position: relative;
@@ -52,6 +53,8 @@
     padding: 10px;
     border: 1px solid #f1f1f1;
 }
+.elements_item:hover {
+  border: 1px solid #grey;}
 .elements {
     border: 1px solid grey;
     margin: 10px 10px 10px 0;
