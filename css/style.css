@@ -11,6 +11,7 @@ body{
 .menu{
   max-width: 1220px;
     padding: 0 20px 0 20px;
+    background:white;
 }
 #pievienot{
   border: 1px solid grey;
@@ -34,6 +35,7 @@ body{
     font-size: 20px;
     padding-left: 13px;
     border-left: 1px solid #f6cc05;
+    margin-right: 10px;
   }
 .main_menu_item:nth-child(1){
     font-size: 20px;
