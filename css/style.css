@@ -52,33 +52,33 @@ body{
 .second_menu_item:hover{
   text-decoration: underline;
 }
-.elements_item {
-    min-width: 165px;
-    width: 18%;
-    float: left;
-    position: relative;
-    margin: 5px;
-    padding: 10px;
-    border: 1px solid #f1f1f1;
-}
-.elements_item:hover{
-  border: 1px solid grey;
-}
 .elements {
     border: 1px solid grey;
     margin: 10px 10px 10px 0;
-    width: 75%;
+    width: 78%;
     padding: 10px;
     position: relative;
     float: right;
 }
-  .sidebar {
+.sidebar {
       margin: 10px 0 10px 10px;
       border: 1px solid grey;
       padding: 10px;
       width: 23%;
       float: left;
       position: relative;
+  }
+  .elements_item {
+      min-width: 165px;
+      width: 18%;
+      float: left;
+      position: relative;
+      margin: 5px;
+      padding: 10px;
+      border: 1px solid #f1f1f1;
+  }
+  .elements_item:hover{
+    border: 1px solid grey;
   }
   .picture {
       margin: 0 auto;
