@@ -61,11 +61,8 @@ body{
   text-decoration: underline;
 }
 .elements {
-    margin: 10px 10px 10px 0;
-    width: 78%;
-    padding: 10px;
+    margin: 5px;
     position: relative;
-    float: right;
 }
 .sidebar {
       margin: 10px 0 10px 10px;
@@ -77,14 +74,14 @@ body{
 .kategorija_item{
   display:flex;
 }
-  .elements_item {
-      min-width: 165px;
-      width: 17%;
-      float: left;
-      position: relative;
-      margin: 10px;
-      border: 1px solid #f1f1f1;
-  }
+.elements_item {
+    min-width: 152px;
+    width: 15%;
+    float: left;
+    position: relative;
+    margin: 10px;
+    border: 1px solid #f1f1f1;
+}
   .elements_item:hover{
     border: 1px solid grey;
   }
