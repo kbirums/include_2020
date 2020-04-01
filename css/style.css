@@ -8,6 +8,7 @@ body{
   }
 .menu{
   max-width: 1220px;
+    padding: 0 20px 0 20px;
 }
 #pievienot{
   border: 1px solid grey;
