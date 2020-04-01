@@ -96,7 +96,7 @@ body{
 }
 .vh2, .virsraksts {
     font-size: 1.3rem;
-    padding: 3px 0;
+    padding: 5px 0;
 }
 .pavadteksts{
   font-size:0.9rem
@@ -106,7 +106,7 @@ body{
     width: 100%;
     margin-top: 20px;
     background: #f6cc05;
-    padding: 6px;
+    padding: 5px;
     text-transform: uppercase;
     text-align: center;
     font-size: 1.2rem;
