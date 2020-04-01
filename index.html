@@ -38,9 +38,9 @@
 </div>
 <div class="saturs">
   <div class="sidebar">
-    <div class="pievienot">
+    <button onclick="document.getElementById('id01').style.display='block'" style="width:auto;">
       Pievienot piedāvājumu!
-    </div>
+    <button>
     <div class="Kategorijas">
       <h2 class="vh2">Kategorijas</h2>
       <ul>
@@ -104,19 +104,8 @@
 </div>
 </div>
 <div class="lightbox">
-
-  <h2>Modal Login Form</h2>
-
-  <button onclick="document.getElementById('id01').style.display='block'" style="width:auto;">Login</button>
-
   <div id="id01" class="modal">
-
     <form class="modal-content animate" action="/action_page.php" method="post">
-      <div class="imgcontainer">
-        <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
-        <img src="img_avatar2.png" alt="Avatar" class="avatar">
-      </div>
-
       <div class="container">
         <label for="uname"><b>Virsraksts</b></label>
         <input type="text" placeholder="Enter Username" name="uname" required>
