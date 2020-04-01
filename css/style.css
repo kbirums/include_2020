@@ -73,9 +73,13 @@ body{
       margin: 5px;
       border: 1px solid #f1f1f1;
   }
-.kategorija_item{
-  display:flex;
-}
+  .kategorija_item {
+      display: inline-grid;
+      border-left: 2px solid #404040;
+      padding-left: 14px;
+      margin-right: 5px;
+      font-size: 18px;
+  }
 .elements_item {
     min-width: 152px;
     width: 15%;
@@ -102,7 +106,11 @@ body{
 .element_kategorija{
   font-size:11px;
 }
-.vh2, .virsraksts {
+.vh2 {
+    font-size: 1.3rem;
+    padding: 5px 0;
+}
+.virsraksts {
     font-size: 1.3rem;
     padding: 5px 0;
 }
