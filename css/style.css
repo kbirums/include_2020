@@ -89,6 +89,7 @@
   font-size:0.9rem
 }
 .pievienot, .poga {
+    margin: 0 auto;
     width: 170px;
     background: #f6cc05;
     padding:5px;
