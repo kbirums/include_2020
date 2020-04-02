@@ -55,7 +55,7 @@
     <div class="elements_item">
   <div class="picture"><img width="100%" height="100%" src="https://i.jauns.lv/t/2020/03/30/1928833/950x0.jpg?v=1585559139" class="attachment-full size-full" alt=""></div>
   <div class="element_info">
-  <div class="element_kategorija"> #aksesuāri  </div>
+  <div id="aksesuari" class="kategorija">#aksesuāri </div>
   <div class="virsraksts"> Latvijas josta</div>
   <div class="pavadteksts">Latvijā ražotas ādas jostas ar apdruku!</div>
   <div class="poga">Uzzināt vairāk</div></div></div>
@@ -103,43 +103,5 @@
         <div class="pavadteksts">shis ir pavadteksts ierobežotu simbolu ziņā un skaitā.</div>
         <div class="poga">Iegādāties</div></div></div>
 </div>
-</div>
-<div class="lightbox">
-  <div id="id01" class="modal">
-    <form class="modal-content animate" action="/action_page.php" method="post">
-      <div class="container">
-        <label for="uname">Virsraksts</label>
-        <input type="text" placeholder="Pievieno virsrakstu"><br>
-        <label for="uname">Apraksts</label>
-        <input type="text" placeholder="Pavadtekstu"><br>
-        <label for="uname">Izvēlies kategoriju</label>
- <select id="kategorijas" name="kategorijas"><br>
-   <option value="1">Pārtika</option>
-   <option value="2">Pakalpojums</option>
-   <option value="3">Apģērbs</option>
-   <option value="4">Lieks</option>
- </select><br>
-        <input type="text" placeholder="Links"><br>
-        <input type="image" placeholder="Izvēlies bildi"><br>
-        <button type="submit">Pievienot</button>
-      </div>
-
-      <div class="container">
-        <button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Iziet</button>
-      </div>
-    </form>
-  </div>
-
-  <script>
-  // Get the modal
-  var modal = document.getElementById('id01');
-
-  // When the user clicks anywhere outside of the modal, close it
-  window.onclick = function(event) {
-      if (event.target == modal) {
-          modal.style.display = "none";
-      }
-  }
-  </script>
 </div>
 </body>
