@@ -21,7 +21,7 @@ body{
 #pievienot{
   border: 1px solid grey;
 }
-#Kategorijas{
+.kategorijas{
   background:grey;
 }
 .mainmenu{
