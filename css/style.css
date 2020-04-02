@@ -80,8 +80,9 @@ ul
 .kategorija_item {
     display: inline-grid;
     border: 1px solid grey;
-    padding: 3px;
-    font-size: 18px;
+    padding: 5px 10px;
+    margin-right: 5px;
+    font-size: 16px;
 }
   .elements_item {
       min-width: 190px;
@@ -154,7 +155,7 @@ ul
 #pievienot{
   border: 1px solid grey;
 }
-#pluss{
+#poga{
   background:white;
   border:1px solid grey;
   border-radius:50px;
