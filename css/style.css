@@ -85,14 +85,14 @@ body{
       border-left: none
       padding-left: 0;
   }
-.elements_item {
-    min-width: 152px;
-    width: 15%;
-    float: left;
-    position: relative;
-    margin: 8px;
-    border: 1px solid #f1f1f1;
-}
+  .elements_item {
+      min-width: 190px;
+      width: 15%;
+      float: left;
+      position: relative;
+      margin: 5px;
+      border: 1px solid #f1f1f1;
+  }
   .elements_item:hover{
     border: 1px solid grey;
   }
@@ -101,13 +101,11 @@ body{
       position: relative;
       padding: 0 5px 5px;
 }
-  .picture {
-      width: 95%;
-      margin: 5px;
-      height: 130px;
-      overflow: hidden;
-      background: #f6cc05;
-    }
+.picture {
+    width: 100%;
+    padding: 5px;
+    height: 130px;
+}
 .element_kategorija{
   font-size:11px;
 }
