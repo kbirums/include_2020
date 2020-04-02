@@ -66,8 +66,9 @@ body{
 }
 .sidebar {
     position: relative;
-    height: 130px;
-    background: #b8e4ff;
+    height: 120px;
+    background: #4e4e4e;
+    background-image: linear-gradient(to right, #ffffff, #fff, #ffff0000, #ffff0000);
     padding: 5px;
     margin: 5px;
     border-bottom: 1px solid #afafaf;
@@ -121,7 +122,7 @@ body{
 .pavadteksts{
   font-size:0.9rem
 }
-button.pievienot{
+.pievienot{
     padding: 20px;
     float: right;
     margin: 33px;
