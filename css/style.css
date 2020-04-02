@@ -95,6 +95,7 @@ ul
   }
   .elements_item {
       min-width: 190px;
+      background:white;
       width: 19%;
       float: left;
       position: relative;
