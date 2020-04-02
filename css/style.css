@@ -153,7 +153,10 @@ ul
   border:1px solid #f5cc05;
 }
 #pievienot{
-  border: 1px solid grey;
+    position: absolute;
+    bottom: 5px;
+    right: 50px;
+
 }
 #poga{
       display: inline-block;
