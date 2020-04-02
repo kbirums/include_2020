@@ -64,6 +64,7 @@ body{
 .elements {
     margin: 5px;
     position: relative;
+
 }
 ul
   {
@@ -79,6 +80,7 @@ ul
     text-align: center;
 }
   .kategorija_item {
+    background:white;
       display: inline-grid;
       border-left: 2px solid #404040;
       padding-left: 14px;
