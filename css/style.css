@@ -72,7 +72,7 @@ ul
 }
 .sidebar {
     position: relative;
-    height: 145px;
+    height: 250px;
     background: #4e4e4e;
     background-image: url(https://i.jauns.lv/t/2020/03/24/1925767/1350x300.jpg?v=1585054729);
     border-bottom: 1px solid #afafaf;
@@ -97,13 +97,12 @@ ul
       margin: 5px;
       border: 1px solid #f1f1f1;
   }
-.kategorijas{
-  background: white;
-position: absolute;
-bottom: 0;
-margin: 0;
-width: 100%;
-}
+  .Kategorijas {
+      background: white;
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+  }
   .elements_item:hover{
     border: 1px solid #eaeaea;
   }
