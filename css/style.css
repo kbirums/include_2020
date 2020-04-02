@@ -101,7 +101,7 @@ margin: 0;
 width: 100%;
 }
   .elements_item:hover{
-    border: 1px solid grey;
+    border: 1px solid #eaeaea;
   }
   .element_info {
       min-height: 155px;
@@ -113,8 +113,8 @@ width: 100%;
     padding: 10px;
     height: 170px;
 }
-.element_kategorija{
-  font-size:11px;
+.element_kategorija {
+    font-size: 12px;
 }
 .vh2 {
     font-size: 1.3rem;
