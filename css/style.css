@@ -156,7 +156,7 @@ ul
   border: 1px solid grey;
 }
 #poga{
-  display: inline-block;
+      display: inline-block;
       border: 3px solid #424242;
       background: white;
       height: 30px;
@@ -165,4 +165,9 @@ ul
 }
 #pievienot_teksts{
   font-size:20px;
+}
+pluss{
+  font-size: 17px;
+font-weight: 500;
+
 }
