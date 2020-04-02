@@ -8,11 +8,12 @@ body{
   max-width: 1220px;
   margin: 0 auto;
   }
-.menu{
-  max-width: 1220px;
-    padding: 0 20px 0 20px;
-    background:white;
-}
+  .menu {
+      max-width: 1220px;
+      height: 152px;
+      padding: 10px 20px 0 20px;
+      background: white;
+  }
 .saturs {
     margin-top: 5px;
     background: white;
