@@ -150,6 +150,9 @@ width: 100%;
     position: absolute;
     bottom: 10px;
 }
+.poga:hover{
+  border:1px solid yellow;
+}
 input[type=text], input[type=password] {
     width: 50%;
     padding: 10px;
