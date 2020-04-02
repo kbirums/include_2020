@@ -154,8 +154,11 @@ ul
 .poga:hover{
   border:1px solid #f5cc05;
 }
-pluss{
+#pluss{
   background:white;
   border:1px solid grey;
   border-radius:50px;
+}
+#pievienot_teksts{
+  font-size:20px;
 }
