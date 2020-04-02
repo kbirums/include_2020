@@ -103,6 +103,7 @@ ul
       border: 1px solid #f1f1f1;
   }
   .Kategorijas {
+      height: 43px;
       background: white;
       position: absolute;
       bottom: 0;
@@ -137,14 +138,14 @@ ul
     height: 45px;
     font-size: 0.9rem;
 }
-.pievienot{
-    padding: 20px;
-    float: right;
-    margin: 33px;
-    font-size: 18px;
+.pievienot {
+    padding: 5px 10px 5px 10px;
+    font-size: 16px;
     background: #f6cc05;
     position: absolute;
-    right: 0;
+    right: 25px;
+    bottom: 5px;
+    z-index: 1;
 }
 .poga {
     width: 70%;
