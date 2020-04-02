@@ -1,8 +1,7 @@
-*{
-  box-sizing: border-box;
-  font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif
-  padding-inline-start: 0;
-      object-fit: cover;
+* {
+    box-sizing: border-box;
+    font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica;
+    object-fit: cover;
 }
 html{background: whitesmoke;;}
 body{
