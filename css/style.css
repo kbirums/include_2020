@@ -175,6 +175,10 @@ ul
     font-weight: 400;
     line-height: 0px;
 }
-#bilde{
-      background-image: url(https://media.radissonhotels.net/image/Destination-Pages/Localattraction/16256-118729-f63223068_3XL.jpg);
+#bilde {
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    object-fit: fill;
+    background-image: url(https://media.radissonhotels.net/image/Destination-Pages/Localattraction/16256-118729-f63223068_3XL.jpg);
 }
