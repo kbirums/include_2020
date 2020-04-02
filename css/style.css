@@ -151,11 +151,10 @@ ul
 .poga:hover{
   border:1px solid #f5cc05;
 }
-.Pievienot{
+.Pievienot {
     position: absolute;
-    bottom: 5px;
+    bottom: 0;
     right: 50px;
-
 }
 #poga {
     display: inline-block;
