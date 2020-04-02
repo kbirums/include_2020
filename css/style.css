@@ -202,3 +202,19 @@ span.psw {
   color: red;
   cursor: pointer;
 }
+
+
+#divs:nth-child(1) {
+  background: rgb(122, 206, 122);
+  height: 140px;
+  transform: skew(-10deg) rotate(2deg);
+  -webkit-transform: skew(-10deg) rotate(2deg);
+  -moz-transform: skew(-10deg) rotate(2deg);
+}
+
+#divs:nth-child(1) p {
+  transform: skew(10deg) rotate(-2deg);
+  -webkit-transform: skew(10deg) rotate(-2deg);
+  -moz-transform: skew(10deg) rotate(-2deg);
+  padding: 3% 2%;
+}
