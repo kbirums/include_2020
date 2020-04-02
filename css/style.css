@@ -19,9 +19,6 @@ body{
     background: white;
     min-height: 1500px;
 }
-#pievienot{
-  border: 1px solid grey;
-}
 .Kategorijas{
   background:white;
   position: absolute;
@@ -153,6 +150,9 @@ ul
 }
 .poga:hover{
   border:1px solid #f5cc05;
+}
+#pievienot{
+  border: 1px solid grey;
 }
 #pluss{
   background:white;
