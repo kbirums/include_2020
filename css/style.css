@@ -82,7 +82,7 @@ body{
       font-size: 18px;
   }
   .kategorija_item:nth-child(1) {
-      border-left: none
+      border-left: none;
       padding-left: 0;
   }
   .elements_item {
