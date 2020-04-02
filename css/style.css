@@ -154,3 +154,8 @@ ul
 .poga:hover{
   border:1px solid #f5cc05;
 }
+pluss{
+  background:white;
+  border:1px solid grey;
+  border-radius:50px;
+}
