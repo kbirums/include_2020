@@ -87,13 +87,12 @@ body{
   }
   .elements_item {
       min-width: 190px;
-      width: 15%;
+      width: 19%;
       float: left;
       position: relative;
       margin: 5px;
       border: 1px solid #f1f1f1;
   }
-
 .kategorijas{
   background: white;
 position: absolute;
