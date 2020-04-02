@@ -66,11 +66,9 @@ body{
 }
 .sidebar {
     position: relative;
-    height: 120px;
+    height: 145px;
     background: #4e4e4e;
-    background-image: linear-gradient(to right, #ffffff, #fff, #ffff0000, #ffff0000);
-    padding: 5px;
-    margin: 5px;
+    background-image: url(https://i.jauns.lv/t/2020/03/24/1925767/1350x300.jpg?v=1585054729);
     border-bottom: 1px solid #afafaf;
     text-align: center;
 }
