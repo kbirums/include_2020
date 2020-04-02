@@ -138,15 +138,16 @@ width: 100%;
     position: absolute;
     right: 0;
 }
-.poga{
-    margin: 0 auto;
-    width: 90%;
-    background: #f6cc05;
+.poga {
+    width: 70%;
+    margin: 0 10%;
+    background: #ffffff;
     padding: 5px;
+    text-transform: uppercase;
     text-align: center;
-    font-size: 1rem;
+    border: 1px solid;
     position: absolute;
-    bottom: 5px;
+    bottom: 10px;
 }
 input[type=text], input[type=password] {
     width: 50%;
