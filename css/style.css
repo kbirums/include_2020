@@ -122,10 +122,9 @@ ul
 .virsraksts {
     text-transform: uppercase;
     font-size: 1.3rem;
-    padding: 10px 0;
+    padding: 5px 0;
 }
 .pavadteksts {
-    height: 45px;
     font-size: 0.9rem;
 }
 .pievienot {
@@ -155,9 +154,7 @@ ul
     position: absolute;
     bottom: 20px;
     right: 111px;
-    background: white;
     padding: 10px;
-    border: 1px solid;
 }
 #poga {
     display: inline-block;
