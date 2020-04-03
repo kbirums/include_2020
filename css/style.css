@@ -181,10 +181,13 @@ url('https://media.radissonhotels.net/image/Destination-Pages/Localattraction/16
     font-weight: 400;
     line-height: 0px;
 }
-.uzruna{
-  width:39%;
-  float:left;
-  position: relative;
+.uzruna {
+    height: 325px;
+    padding: 5px;
+    margin: 5px;
+    width: 39%;
+    float: left;
+    position: relative;
 }
 #uzruna_items{
 padding:5px;
