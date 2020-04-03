@@ -183,8 +183,10 @@ ul
     float: left;
     position: relative;
 }
-.uzruna_items{
-padding:5px;
+.uzruna_items {
+    padding: 5px;
+    bottom: 10px;
+    position: absolute;
 }
 .uzruna2{
 }
