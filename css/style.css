@@ -138,8 +138,8 @@ ul
 }
 .poga {
     width: 90%;
-    background: #404040;
-    color: white;
+    background: #424242;
+    color: black;
     padding: 5px;
     text-transform: uppercase;
     text-align: center;
@@ -147,7 +147,8 @@ ul
     bottom: 10px;
 }
 .poga:hover{
-  border:1px solid #f5cc05;
+  background: #404040;
+  color: white;
 }
 .Pievienot {
     position: absolute;
