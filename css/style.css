@@ -186,9 +186,11 @@ ul
 }
 #uzruna2 {
     font-size: 33px;
-    width: 80%;
+    width: 90%;
     border-bottom: 3px solid #f5cc05;
 }
-#uzruna3{
-  font-size: 18px;
+#uzruna3 {
+    width: 90%;
+    font-size: 18px;
+    padding: 5px;
 }
