@@ -185,10 +185,9 @@ ul
     bottom: 80px;
     position: absolute;
 }
-#uzruna2
-{
-    font-size: 40px;
-    width: 60%;
+#uzruna2 {
+    font-size: 36px;
+    width: 80%;
     border-bottom: 3px solid #f5cc05;
 }
 #uzruna3{
