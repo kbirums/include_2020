@@ -137,13 +137,12 @@ ul
     z-index: 1;
 }
 .poga {
-    width: 70%;
-    margin: 0 10%;
-    background: #ffffff;
+    width: 90%;
+    background: #404040;
+    color: white;
     padding: 5px;
     text-transform: uppercase;
     text-align: center;
-    border: 1px solid;
     position: absolute;
     bottom: 10px;
 }
