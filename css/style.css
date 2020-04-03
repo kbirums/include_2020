@@ -154,7 +154,8 @@ ul
 .Pievienot {
     position: absolute;
     bottom: 0;
-    right: 50px;
+    right: 111px;
+    background: white;
 }
 #poga {
     display: inline-block;
