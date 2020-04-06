@@ -204,11 +204,11 @@ ul
       width: 61%;
       position: relative;
   }
-.uzruna_items {
-    padding: 0 26px;
-    bottom: 0;
-    position: absolute;
-}
+  .uzruna_items {
+      position: absolute;
+      top: 1;
+  }
+
 .elements_item {
     min-width: 196px;
     background: white;
