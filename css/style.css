@@ -195,7 +195,7 @@ ul
     font-size: 18px;
     padding: 5px;
 }
-@media only screen (min-width:701px) and (max-width: 901px) {
+@media only screen (max-width: 901px) {
   .mainmenu, .second_menu{
     display: none;
   }
