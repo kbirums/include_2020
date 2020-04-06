@@ -195,7 +195,33 @@ ul
     font-size: 18px;
     padding: 5px;
 }
-
+@media only screen (min-width:701px) and (max-width: 901px) {
+  .mainmenu, .second_menu{
+    display: none;
+  }
+  .uzruna {
+    height: 125px;
+    width: 100%;
+    position: relative;
+}
+.Pievienot{
+  display: none;
+}
+.uzruna_items {
+    padding: 0 26px;
+    bottom: 0;
+    position: absolute;
+}
+.elements_item {
+    width: 47%;
+  }
+#uzruna3 {
+    font-size: 14px;
+}
+#uzruna2 {
+    font-size: 27px;
+}
+}
 @media only screen and (max-width: 700px) {
   .mainmenu, .second_menu{
     display: none;
