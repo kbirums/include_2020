@@ -200,7 +200,7 @@ ul
     display: none;
   }
   .uzruna {
-      min-height: 280px;
+    height: 325px;
       width: 61%;
       position: relative;
       margin: 0;
