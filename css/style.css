@@ -214,7 +214,12 @@ ul
     position: absolute;
 }
 .elements_item {
-    min-width: 190px;
-    background: white;
     width: 48%;
+  }
+#uzruna3 {
+    font-size: 14px;
+}
+#uzruna2 {
+    font-size: 27px;
+}
 }
