@@ -201,7 +201,7 @@ ul
   }
   .uzruna {
     height: 125px;
-    width: 32%;
+    width: 50%;
     position: relative;
 }
 .uzruna_items {
@@ -210,8 +210,9 @@ ul
     position: absolute;
 }
 .elements_item {
-    width: 28%;
-  }
+    min-width: 196px;
+    background: white;
+    width: 23%;
 #uzruna3 {
     font-size: 14px;
 }
