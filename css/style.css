@@ -196,7 +196,7 @@ ul
     padding: 5px;
 }
 @media only screen (max-width: 901px) {
-  .mainmenu, .second_menu{
+  .mainmenu .second_menu{
     display: none;
   }
   .uzruna {
@@ -212,7 +212,8 @@ ul
 .elements_item {
     min-width: 196px;
     background: white;
-    width: 23%; }
+    width: 23%;
+  }
 #uzruna3 {
     font-size: 14px;
 }
@@ -221,7 +222,7 @@ ul
 }
 }
 @media only screen and (max-width: 700px) {
-  .mainmenu, .second_menu{
+  .mainmenu .second_menu{
     display: none;
   }
   .uzruna {
