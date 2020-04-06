@@ -332,5 +332,6 @@ height: auto;}
   }
 }
 .pogtests{
+  position: relative;
   clear:both;
 }
