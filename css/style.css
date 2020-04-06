@@ -201,7 +201,7 @@ ul
   }
   .uzruna {
     height: 125px;
-    width: 100%;
+    width: 32%;
     position: relative;
 }
 .Pievienot{
@@ -213,7 +213,7 @@ ul
     position: absolute;
 }
 .elements_item {
-    width: 47%;
+    width: 32%;
   }
 #uzruna3 {
     font-size: 14px;
