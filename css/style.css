@@ -2,6 +2,7 @@
     box-sizing: border-box;
     font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica;
     object-fit: cover;
+    transition: all 200ms;
 }
 html{background: whitesmoke;;}
 body{
