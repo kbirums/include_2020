@@ -284,16 +284,14 @@ height: auto;}
   visibility: visible;
   opacity: 1;
 }
-
 .popup {
-  margin: 70px auto;
-  padding: 20px;
-  background: #fff;
-  border-radius: 5px;
-  width: 30%;
-  position: relative;
+    margin: 70px auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 10px;
+    width: 50%;
+    position: relative;
 }
-
 .popup h2 {
   margin-top: 0;
   color: #333;
