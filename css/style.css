@@ -200,10 +200,10 @@ ul
     display: none;
   }
   .uzruna {
-    height: 125px;
-    width: 50%;
-    position: relative;
-}
+      min-height: 280px;
+      width: 50%;
+      position: relative;
+  }
 .uzruna_items {
     padding: 0 26px;
     bottom: 0;
@@ -212,8 +212,11 @@ ul
 .elements_item {
     min-width: 196px;
     background: white;
-    width: 23%;
+    width: 30%;
   }
+  .Pievienot {
+    padding-left: 50px;}
+
 #uzruna3 {
     font-size: 14px;
 }
