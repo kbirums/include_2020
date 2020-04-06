@@ -31,9 +31,10 @@ body{
   padding-left:10px;
   border-left: 1px solid #f6cc05;
 }
-.second{
-  background:white;
-  height:30px;
+.second {
+    overflow-y: auto;
+    background: white;
+    white-space: nowrap;
 }
 .main_menu_item {
     display: inline;
