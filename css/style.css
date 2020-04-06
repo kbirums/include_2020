@@ -197,7 +197,7 @@ ul
 }
 
 @media only screen and (max-width: 700px) {
-  .mainmenu, .second_menu{
+  .mainmenu .second_menu{
     display: none;
   }
   .uzruna {
