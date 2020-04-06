@@ -213,5 +213,8 @@ ul
     bottom: 0;
     position: absolute;
 }
-
+.elements_item {
+    min-width: 190px;
+    background: white;
+    width: 48%;
 }
