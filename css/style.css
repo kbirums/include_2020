@@ -200,4 +200,13 @@ ul
   .menu {
     display: none;
   }
+  .uzruna {
+    height: 125px;
+    width: 100%;
+    position: relative;
+}
+.Pievienot{
+  display: none;
+}
+
 }
