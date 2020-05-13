@@ -323,7 +323,7 @@ height: auto;}
   position: relative;
   clear:both;
 }
-widgets_desktop{
+.widgets_desktop{
   width:850px;
   background: white;
 }
