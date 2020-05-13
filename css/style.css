@@ -329,7 +329,8 @@ height: auto;}
   height: 900px;
 }
 .widget-header{
-  padding:1px
+  padding:1px;
+  height: 200px;
 }
 .w_uzruna{
   padding:1px;
