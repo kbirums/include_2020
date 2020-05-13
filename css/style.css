@@ -326,7 +326,5 @@ height: auto;}
 .widgets_desktop{
   width:850px;
   background: white;
-}
-.w_elements_item{
-  width:25%;
+  height: 900px;
 }
