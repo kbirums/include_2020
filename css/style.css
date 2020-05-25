@@ -151,9 +151,9 @@ ul
 }
 .Pievienot {
     padding-left: 10px;
-    color: black;
+    color: #424242;
     position: absolute;
-    bottom: 20px;
+    bottom: 0;
 }
 #poga {
     display: inline-block;
