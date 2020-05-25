@@ -189,9 +189,10 @@ ul
     position: absolute;
 }
 #logo {
+    width: 35%;
     padding-left: 5px;
     font-size: 33px;
-    border-bottom: 3px solid #f5cc05;
+    border-right: 3px solid #f5cc05;
 }
 #uzruna3 {
     font-size: 18px;
