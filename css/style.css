@@ -158,10 +158,9 @@ ul
 #poga {
     display: inline-block;
     background: #424242;
-    height: 36px;
+    height: 33px;
     color: white;
-    width: 36px;
-    padding-top: 4px;
+    width: 34px;
     padding-left: 7px;
     border-radius: 35px;
     vertical-align: middle;
@@ -187,8 +186,8 @@ ul
     position: absolute;
 }
 #logo {
-    padding-left: 20px;
-    width: 350px;
+    padding: 5px 0;
+    width: 400px;
     float: left;
     border-right: 3px solid #f5cc05;
 }
