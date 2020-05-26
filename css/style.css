@@ -8,125 +8,98 @@ body{
   max-width: 1220px;
   margin: 0 auto;
   }
-  .menu {
-      max-width: 1220px;
-      height: 152px;
-      padding: 10px 20px 0 20px;
-      background: white;
-  }
 .saturs {
     margin-top: 5px;
     background: white;
     min-height: 800px;
 }
-.Kategorijas{
-  background:white;
-  position: absolute;
-
+.elementi {
+    display: inline-flex;
 }
-.mainmenu{
-  overflow-y: auto;
-  background: white;
-  white-space: nowrap;
-  background:white;
-}
-.main_menu {
-  padding-left:10px;
-  border-left: 1px solid #f6cc05;
-}
-.second {
-    overflow-y: auto;
-    background: white;
-    white-space: nowrap;
-}
-.main_menu_item {
-    display: inline;
-    font-size: 18px;
-    padding-left: 7px;
-    border-left: 1px solid #f6cc05;
-    margin-right: 3px;
-}
-.main_menu_item:nth-child(1){
-    padding-left: 5px;
-    border-left: 0;
-}
-.second_menu_item {
-    display: inline;
-    font-size: 14px;
-    padding-left: 10px;
-    margin-right: 10px;
-}
-.second_menu_item:nth-child(1){
-  border-left:none;
-  font-weight: 500;
-}
-.second_menu_item:hover{
-  text-decoration: underline;
-}
-.elements {
-    margin: 5px;
-    position: relative;
-
-}
-ul
-  {
-    padding: 10px;
+#uzruna1 {
+    font-size: 25;
+    font-weight: 300;
+    text-transform: uppercase;
     margin: 0;
 }
-.temas_tops {
-    position: relative;
-    object-fit: fill;
-    height: 200px;
-    background-image: linear-gradient(to bottom, rgba(245, 246, 252, 0.52), rgba(255, 255, 255, 0.73)), url(https://media.radissonhotels.net/image/Destination-Pages/Localattraction/16256-118729-f63223068_3XL.jpg);
+.w_elements_item {
+    padding: 5px;
+    width: 24%;
+    display: block;
+    background: white;
+    margin: 0px 5px;
+    box-shadow: 0px 1px 5px #80808066;
+}
+.w_elements_item:hover {
+    box-shadow: 0px 1px 5px #636363;
+}
+.kategorija {
+    left: 35px;
+    width: 60%;
+    bottom: 5px;
+    position: absolute;
+    background: white;
+    font-size: 14px;
+    margin: 0 auto;
     text-align: center;
+    padding: 3px 0;
 }
-.kategorija_item {
-    display: inline-grid;
-    border: 1px solid grey;
-    padding: 5px 10px;
-    margin-right: 5px;
-    font-size: 16px;
+.partika{
+    border-bottom: 2px solid #FFC107;
+    padding: 0 10px;
 }
-  .elements_item {
-      min-width: 190px;
-      background:white;
-      width: 19%;
-      float: left;
-      position: relative;
-      margin: 5px;
-      border: 1px solid #f1f1f1;
-  }
-  .Kategorijas {
-      height: 43px;
-      background: white;
-      position: absolute;
-      bottom: 0;
-      width: 100%;
-  }
-  .element_info {
-      min-height: 155px;
-      position: relative;
-      padding: 0 10px 10px 10px;
-  }
+.izklaide{
+    border-bottom: 2px solid #ff6301;
+    padding: 0 10px;
+}
+.produkts{
+    border-bottom: 2px solid #03a9f4;
+    padding: 0 10px;
+}
+.veseliba{
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+    border-bottom: 2px solid #56dea7;
+    padding: 0 10px;
+}
+.element_info {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    text-overflow: ellipsis;
+    min-height: 80px;
+    padding: 0 10px;
+    overflow: hidden;
+}
 .picture {
     width: 100%;
-    padding: 10px;
-    height: 170px;
-}
-.element_kategorija {
-    font-size: 14px;
-}
-.vh2 {
-    font-size: 1.3rem;
-    padding: 5px 0;
+    padding: 5px;
+    height: 150px;
+    overflow: hidden;
+    position: relative;
 }
 .virsraksts {
+    text-align: center;
     text-transform: uppercase;
-    font-size: 1.3rem;
+    font-size: 15px;
+    font-weight: 500;
+    white-space: nowrap;
     padding: 5px 0;
+    overflow: hidden;
+}
+.rm_virsraksts {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 500;
+    white-space: nowrap;
+    padding: 5px 0;
+    overflow: hidden;
 }
 .pavadteksts {
-    font-size: 0.9rem;
+    font-size: 13px;
+    overflow: hidden;
 }
 .pievienot {
     padding: 5px 10px 5px 10px;
@@ -135,19 +108,6 @@ ul
     position: absolute;
     right: 25px;
     bottom: 5px;
-}
-.poga {
-    width: 90%;
-    background: #424242;
-    color: white;
-    padding: 5px;
-    text-align: center;
-    position: absolute;
-    bottom: 10px;
-}
-.poga:hover{
-  background: #f5cc05;
-  color: black;
 }
 .Pievienot {
     padding-left: 10px;
@@ -206,25 +166,6 @@ ul
       width: 61%;
       position: relative;
   }
-  .uzruna_items {
-      position: absolute;
-      top: 1;
-  }
-
-.elements_item {
-    min-width: 196px;
-    background: white;
-    width: 30%;
-  }
-  .Pievienot {
-    padding-left: 50px;}
-
-#uzruna3 {
-    font-size: 20px;
-}
-#uzruna2 {
-    font-size: 30px;
-}
 }
 @media only screen and (max-width: 700px) {
   .uzruna {
@@ -250,9 +191,6 @@ ul
 }
 #uzruna2 {
     font-size: 27px;
-}
-.menu{
-height: auto;}
 }
 
 /* testejam pogas */
