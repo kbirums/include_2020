@@ -245,6 +245,8 @@ body{
     overflow: auto;
 }
 input, select, textarea {
+    padding: 5px;
+    font-size: 13px;
     width: 60%;
 }
 button {
