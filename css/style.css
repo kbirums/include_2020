@@ -254,8 +254,9 @@ button {
     color: white;
 }
 input, label {
-    margin: 10px 5px;
-    padding: 5px;
+    display: block;
+    margin: 4px 0;
+    padding: 3px 0;
     font-size: 14px;
     vertical-align: top;
 }
