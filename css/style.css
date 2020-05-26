@@ -262,7 +262,8 @@ input {
     font-size: 14px;
     vertical-align: top;
 }
-.pievienot-virsraksts{
+.pievienot_virsraksts{
+  padding-top: 5px;
     font-size: 20px;
     border-bottom: 1px solid #FFC107;
 }
