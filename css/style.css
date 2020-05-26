@@ -244,3 +244,11 @@ body{
   max-height: 30%;
   overflow: auto;
 }
+button{
+    right: 25px;
+    padding: 5px 20px;
+    position: absolute;
+    bottom: 25px;
+    font-size: 15px;
+    border: 1px solid #f7d000;
+}
