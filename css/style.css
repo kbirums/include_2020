@@ -44,11 +44,11 @@ body{
     text-align: center;
     padding: 3px 0;
 }
-.elements{
-    padding: 10px;
+.elements {
+    padding: 0 10px;
 }
-.sortby{
-    padding: 10px;
+.sortby {
+    padding: 15px;
     text-align: center;
 }
 .partika{
