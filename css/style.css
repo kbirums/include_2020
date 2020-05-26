@@ -198,6 +198,12 @@ body{
     margin-bottom: 5px;
 }
 
+.pievienot_piemers{
+  width: 50%;
+}
+.pievienot_info{
+  width: 48%;
+}
 /* testejam pogas */
 .button {
   font-size: 1em;
