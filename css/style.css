@@ -248,13 +248,11 @@ body{
 input, select, textarea {
     width: 60%;
 }
-button{
-    right: 25px;
+button {
     padding: 5px 20px;
-    position: absolute;
-    bottom: 25px;
-    font-size: 15px;
-    border: 1px solid #f7d000;
+    font-size: 18px;
+    background: #383838;
+    color: white;
 }
 input {
     margin: 10px 5px;
