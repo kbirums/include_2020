@@ -131,38 +131,34 @@ body{
     font-size: 13px;
     overflow: hidden;
 }
-.pievienot {
-    padding: 5px 10px 5px 10px;
-    font-size: 16px;
-    background: #f6cc05;
-    position: absolute;
-    right: 25px;
-    bottom: 5px;
-}
 .Pievienot {
+    box-shadow: 1px 1px 1px #adadad;
+    padding: 3px 5px;
+    background: #fed600;
     color: #424242;
+    border-radius: 20px;
     position: absolute;
-    bottom: 15px;
+    bottom: 3px;
 }
 #poga {
     display: inline-block;
-    background: #fed600;
-    height: 33px;
-    color: white;
-    width: 34px;
-    padding-left: 7px;
+    border: 1px solid grey;
+    height: 29px;
+    color: #fed600;
+    background: black;
+    width: 29px;
+    padding-left: 3px;
     border-radius: 35px;
     vertical-align: middle;
 }
 #pievienot_teksts {
-    font-size: 20px;
+    font-size: 17px;
     vertical-align: middle;
 }
 #pluss {
     font-size: 35px;
-    vertical-align: middle;
     font-weight: 400;
-    line-height: 0px;
+    line-height: 21px;
     text-align: center;
 }
 .uzruna {
