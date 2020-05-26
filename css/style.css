@@ -47,17 +47,29 @@ body{
 .elements{
     padding: 10px;
 }
+.sortby{
+    padding: 10px;
+    text-align: center;
+}
 .partika{
     border-bottom: 2px solid #FFC107;
     padding: 0 10px;
+    margin: 10px;
 }
 .izklaide{
     border-bottom: 2px solid #ff6301;
     padding: 0 10px;
+    margin: 10px;
+}
+.razots_lv{
+    border-bottom: 2px solid #ff6301;
+    padding: 0 10px;
+    margin: 10px;
 }
 .produkts{
     border-bottom: 2px solid #03a9f4;
     padding: 0 10px;
+    margin: 10px;
 }
 .veseliba{
     text-align: center;
@@ -65,6 +77,7 @@ body{
     margin: 0 auto;
     border-bottom: 2px solid #56dea7;
     padding: 0 10px;
+    margin: 10px;
 }
 .element_info {
     display: -webkit-box;
