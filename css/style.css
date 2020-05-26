@@ -181,10 +181,8 @@ body{
     margin: 0 auto;
     margin-bottom: 5px;
 }
-
 .pievienot_piemers {
-    width: 30%;
-    float: left;
+    width: 35%;
 }
 .pievienot_info {
     padding-left: 20px;
@@ -221,7 +219,8 @@ body{
     width: 50%;
     display: block;
     position: relative;
-    min-height: -webkit-fill-available;
+    min-height: 420px;
+    height: -webkit-fill-available;
 }
 .popup h2 {
   margin-top: 0;
@@ -248,7 +247,7 @@ body{
 input, select, textarea {
     width: 60%;
 }
-button {
+button. label {
     padding: 5px 20px;
     font-size: 18px;
     background: #383838;
