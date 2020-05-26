@@ -219,8 +219,7 @@ body{
     width: 50%;
     display: block;
     position: relative;
-    min-height: 470px;
-    height: fit-content;
+    min-height: 550px;
 }
 .popup h2 {
   margin-top: 0;
