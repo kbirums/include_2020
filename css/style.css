@@ -56,6 +56,9 @@ body{
     padding: 0 10px;
     margin: 10px;
 }
+.atlasit_pec{
+  font-weight: 400;
+}
 .izklaide{
     border-bottom: 2px solid #ff6301;
     padding: 0 10px;
