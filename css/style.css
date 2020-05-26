@@ -158,21 +158,18 @@ body{
     position: relative;
 }
 .uzruna_items {
-    padding: 0 50px;
-    top: 10px;
+    padding: 10px 50px;
+    top: 0px;
     position: absolute;
+    display: flex;
 }
 #logo {
-    padding: 5px 0;
-    width: 350px;
-    float: left;
+    width: 500px;
     border-right: 3px solid #f5cc05;
 }
 #uzruna3 {
-    float: left;
-    font-size: 18px;
-    width: 60%;
-    padding: 0px 15px;
+    font-size: 20px;
+    padding: 5px 15px;
 }
 .poga {
     width: 70%;
