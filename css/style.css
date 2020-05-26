@@ -23,11 +23,11 @@ body{
     margin: 0;
 }
 .w_elements_item {
+    float: left;
     padding: 5px;
-    width: 24%;
-    display: block;
+    margin: 5px;
+    max-width: 230px;
     background: white;
-    margin: 0px 5px;
     box-shadow: 0px 1px 5px #80808066;
 }
 .w_elements_item:hover {
@@ -43,6 +43,9 @@ body{
     margin: 0 auto;
     text-align: center;
     padding: 3px 0;
+}
+.elements{
+    padding: 10px;
 }
 .partika{
     border-bottom: 2px solid #FFC107;
@@ -192,9 +195,7 @@ body{
 #uzruna2 {
     font-size: 27px;
 }
-
 /* testejam pogas */
-
 .button {
   font-size: 1em;
   padding: 10px;
@@ -202,7 +203,6 @@ body{
   text-decoration: none;
   cursor: pointer;
 }
-
 .overlay {
   position: fixed;
   top: 0;
@@ -246,29 +246,4 @@ body{
 .popup .content {
   max-height: 30%;
   overflow: auto;
-}
-
-@media screen and (max-width: 700px){
-  .box{
-    width: 70%;
-  }
-  .popup{
-    width: 70%;
-  }
-}
-.pogtests{
-  position: relative;
-  clear:both;
-}
-.widgets_desktop{
-  width:850px;
-  background: white;
-  height: 900px;
-}
-.widget-header{
-  padding:1px;
-  height: 200px;
-}
-.w_uzruna{
-  padding:1px;
 }
