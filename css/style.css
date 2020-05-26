@@ -247,7 +247,7 @@ body{
 input, select, textarea {
     width: 60%;
 }
-button. label {
+button, label {
     padding: 5px 20px;
     font-size: 18px;
     background: #383838;
