@@ -6,7 +6,7 @@
 html{background: whitesmoke;;}
 body{
   max-width: 1220px;
-  margin: 0 auto;
+  margin: 20px auto;
   }
 .saturs {
     margin-top: 5px;
@@ -172,7 +172,7 @@ body{
     float: left;
     font-size: 18px;
     width: 60%;
-    padding: 5px 15px;
+    padding: 0px 15px;
 }
 .poga {
     width: 70%;
