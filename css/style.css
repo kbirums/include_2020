@@ -219,7 +219,8 @@ body{
     width: 50%;
     display: block;
     position: relative;
-    min-height: 420px;
+    min-height: 470px;
+    height: fit-content;
 }
 .popup h2 {
   margin-top: 0;
@@ -258,8 +259,9 @@ input, label {
     font-size: 14px;
     vertical-align: top;
 }
-.pievienot_virsraksts{
-  padding-top: 5px;
+.pievienot_virsraksts {
+    margin: 15px 0;
+    padding-top: 5px;
     font-size: 20px;
     border-bottom: 1px solid #FFC107;
 }
