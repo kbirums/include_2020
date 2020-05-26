@@ -167,17 +167,18 @@ body{
     text-align: center;
 }
 .uzruna {
-    height: 150px;
+    height: 140px;
     width: 100%;
     position: relative;
 }
 .uzruna_items {
+    padding: 0 50px;
     top: 10px;
     position: absolute;
 }
 #logo {
     padding: 5px 0;
-    width: 400px;
+    width: 350px;
     float: left;
     border-right: 3px solid #f5cc05;
 }
