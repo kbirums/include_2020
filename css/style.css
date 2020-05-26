@@ -244,6 +244,9 @@ body{
   max-height: 30%;
   overflow: auto;
 }
+input, select{
+  width: 50%;
+}
 button{
     right: 25px;
     padding: 5px 20px;
@@ -251,4 +254,7 @@ button{
     bottom: 25px;
     font-size: 15px;
     border: 1px solid #f7d000;
+}
+input{
+    padding: 5px;
 }
