@@ -220,7 +220,6 @@ body{
     display: block;
     position: relative;
     min-height: 420px;
-    height: -webkit-fill-available;
 }
 .popup h2 {
   margin-top: 0;
@@ -247,7 +246,7 @@ body{
 input, select, textarea {
     width: 60%;
 }
-button{
+button {
     padding: 5px 20px;
     font-size: 18px;
     background: #383838;
