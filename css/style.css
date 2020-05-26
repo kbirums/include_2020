@@ -215,12 +215,13 @@ body{
 }
 .popup {
     margin: 70px auto;
-    padding: 20px;
+    padding: 30px;
     background: #fff;
     border-radius: 10px;
-    width: 40%;
+    width: 50%;
+    display: block;
     position: relative;
-    height: 321px;
+    min-height: -webkit-fill-available;
 }
 .popup h2 {
   margin-top: 0;
@@ -260,4 +261,8 @@ input {
     padding: 5px;
     font-size: 14px;
     vertical-align: top;
+}
+.pievienot-virsraksts{
+    font-size: 20px;
+    border-bottom: 1px solid #FFC107;
 }
