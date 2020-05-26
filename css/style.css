@@ -244,8 +244,8 @@ body{
   max-height: 30%;
   overflow: auto;
 }
-input, select{
-  width: 50%;
+input, select {
+    width: 60%;
 }
 button{
     right: 25px;
@@ -255,6 +255,9 @@ button{
     font-size: 15px;
     border: 1px solid #f7d000;
 }
-input{
+input {
+    margin: 10px 5px;
     padding: 5px;
+    font-size: 14px;
+    vertical-align: top;
 }
