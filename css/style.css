@@ -245,7 +245,7 @@ body{
   max-height: 30%;
   overflow: auto;
 }
-input, select {
+input, select, textarea {
     width: 60%;
 }
 button{
